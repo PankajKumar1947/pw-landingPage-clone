@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 21.73 40"
+   version="1.1"
+   id="svg107"
+   sodipodi:docname="b-right-arrow.svg"
+   inkscape:version="1.1.2 (b8e25be8, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs111" />
+  <sodipodi:namedview
+     id="namedview109"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="17.8"
+     inkscape:cx="0.64606742"
+     inkscape:cy="20"
+     inkscape:window-width="1296"
+     inkscape:window-height="934"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg107" />
+  <title
+     id="title101">Asset 2</title>
+  <g
+     id="Layer_2"
+     data-name="Layer 2"
+     transform="matrix(0.4,0,0,0.4,6.519,11.994759)">
+    <g
+       id="Layer_1-2"
+       data-name="Layer 1">
+      <path
+         d="m 1.72,40 a 1.71,1.71 0 0 0 1.21,-0.5 l 18.3,-18.3 a 1.72,1.72 0 0 0 0,-2.43 L 3,0.5 A 1.7324693,1.7324693 0 0 0 0.53,2.93 L 17.59,20 0.5,37.07 a 1.72,1.72 0 0 0 0,2.43 1.75,1.75 0 0 0 1.22,0.5 z"
+         id="path103" />
+    </g>
+  </g>
+</svg>
